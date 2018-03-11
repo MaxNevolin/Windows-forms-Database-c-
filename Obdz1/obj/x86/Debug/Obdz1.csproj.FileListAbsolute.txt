@@ -1,0 +1,51 @@
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\bin\Debug\Obdz1.exe
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\bin\Debug\Obdz1.pdb
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\bin\Debug\system.data.oracleclient.dll
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.Form1.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.Properties.Resources.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.exe
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.pdb
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.addform.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.deleteform.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.MainForm.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.FormRoompay.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.FormWater.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.updateform.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.dateform.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.monthform.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.addproduct.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.FormProducts.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.kategform.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.delprod.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.FormProdbuy.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.addbuy.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.updbuy.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.addroompay.resources
+C:\Users\Note-Nev\Documents\Visual Studio 2010\Projects\Obdz1\Obdz1\obj\x86\Debug\Obdz1.updprodbuy.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.csprojResolveAssemblyReference.cache
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.addbuy.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.addform.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.addproduct.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.addroompay.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.dateform.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.deleteform.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.delprod.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.Form1.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.FormProdbuy.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.FormProducts.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.FormRoompay.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.FormWater.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.kategform.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.MainForm.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.monthform.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.Properties.Resources.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.updateform.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.updbuy.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.updprodbuy.resources
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.csproj.GenerateResource.cache
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.csproj.CoreCompileInputs.cache
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.exe
+F:\STUDY\flashka\kurswork3\Новая папка\project\Obdz1\Obdz1\obj\x86\Debug\Obdz1.pdb
